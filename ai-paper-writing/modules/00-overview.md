@@ -6,7 +6,7 @@ description: Treat the paper as a short, evidence-backed story built around 1–
 
 ## The Paper Is a Narrative
 
-An ideal ML paper is a short, rigorous, evidence-based technical story with a takeaway the reader cares about.
+An ideal AI paper is a short, rigorous, evidence-based technical story with a takeaway the reader cares about.
 
 ### What to do
 

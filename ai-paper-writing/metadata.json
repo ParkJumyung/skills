@@ -4,6 +4,6 @@
   "date": "January 2026",
   "abstract": "A modular, rule-based guide for writing and reviewing machine learning research papers, distilled from highly opinionated best practices from Neel Nanda. Designed for AI agents and LLM-assisted workflows, this skill emphasizes narrative clarity, precise claims, rigorous experimental evidence, and scientific integrity. The repository is structured as independent rules and templates covering claim compression, motivation and impact, novelty positioning, experiment design and red-teaming, paper structure (abstract, introduction, figures, main body), limitations, and iterative writing process. Optimized for truth-seeking, reader comprehension, and reproducibility rather than hype or conference-driven incentives.",
   "references": [
-    "https://www.alignmentforum.org/posts/eJGptPbbFPZGLpjsp/highly-opinionated-advice-on-how-to-write-ml-papers"
+    "https://www.alignmentforum.org/posts/eJGptPbbFPZGLpjsp/highly-opinionated-advice-on-how-to-write-AI-papers"
   ]
 }

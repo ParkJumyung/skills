@@ -12,7 +12,7 @@ Your narrative needs motivation and impact. Always answer: **Why should anyone c
 
 For each claim, write three pieces:
 
-1. **Context:** Where does this sit in ML / why this topic is real?
+1. **Context:** Where does this sit in AI / why this topic is real?
 2. **Need/gap:** What’s unknown, missing, or wrong?
 3. **Impact:** What changes if your claim is true? Who should update beliefs or behavior?
 

@@ -1,11 +1,11 @@
 ---
-name: ml-paper-writing
-description: Modular toolkit for writing and reviewing ML papers: compress to 1–3 claims, motivate impact, position novelty, design/red-team evidence, and structure abstract/intro/figures/main body. Use when drafting, revising, or reviewing ML research papers.
+name: ai-paper-writing
+description: Modular toolkit for writing and reviewing AI papers: compress to 1–3 claims, motivate impact, position novelty, design/red-team evidence, and structure abstract/intro/figures/main body. Use when drafting, revising, or reviewing AI research papers.
 ---
 
-# ML Paper Writing
+# AI Paper Writing
 
-A modular skill bundle distilled from “Highly Opinionated Advice on How to Write ML Papers” (Neel Nanda).  
+A modular skill bundle distilled from “Highly Opinionated Advice on How to Write AI Papers” (Neel Nanda).  
 The goal is to help you produce papers where readers **understand**, **remember**, and **believe** the narrative.
 
 ## North star
@@ -111,4 +111,4 @@ Pick a workflow below, or jump straight to a module. Each module is independent.
 
 ## Acknowledgements
 
-This was compiled from Neel Nanda's article (Highly Opinionated Advice on How to Write ML Papers)[https://www.alignmentforum.org/s/5GT3yoYM9gRmMEKqL/p/eJGptPbbFPZGLpjsp]
+This was compiled from Neel Nanda's article (Highly Opinionated Advice on How to Write AI Papers)[https://www.alignmentforum.org/s/5GT3yoYM9gRmMEKqL/p/eJGptPbbFPZGLpjsp]

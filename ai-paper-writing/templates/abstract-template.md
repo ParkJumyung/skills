@@ -17,7 +17,7 @@ Use this to draft an abstract that stands alone for readers who stop after the a
 ### Fill-in
 
 1. **Context (1 sentence):**  
-   _(What area of ML? What’s uncontroversially true / established?)_
+   _(What area of AI? What’s uncontroversially true / established?)_
    - …
 
 2. **Gap / need (1 sentence):**  

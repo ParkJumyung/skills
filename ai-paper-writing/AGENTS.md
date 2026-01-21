@@ -1,11 +1,11 @@
 ---
-name: ml-paper-writing
-description: Modular toolkit for writing and reviewing ML papers: compress to 1–3 claims, motivate impact, position novelty, design/red-team evidence, and structure abstract/intro/figures/main body. Use when drafting, revising, or reviewing ML research papers.
+name: ai-paper-writing
+description: Modular toolkit for writing and reviewing AI papers: compress to 1–3 claims, motivate impact, position novelty, design/red-team evidence, and structure abstract/intro/figures/main body. Use when drafting, revising, or reviewing AI research papers.
 ---
 
-# ML Paper Writing
+# AI Paper Writing
 
-A modular skill bundle distilled from “Highly Opinionated Advice on How to Write ML Papers” (Neel Nanda).  
+A modular skill bundle distilled from “Highly Opinionated Advice on How to Write AI Papers” (Neel Nanda).  
 The goal is to help you produce papers where readers **understand**, **remember**, and **believe** the narrative.
 
 ## North star
@@ -111,7 +111,7 @@ Pick a workflow below, or jump straight to a module. Each module is independent.
 
 ## Acknowledgements
 
-This was compiled from Neel Nanda's article (Highly Opinionated Advice on How to Write ML Papers)[https://www.alignmentforum.org/s/5GT3yoYM9gRmMEKqL/p/eJGptPbbFPZGLpjsp]
+This was compiled from Neel Nanda's article (Highly Opinionated Advice on How to Write AI Papers)[https://www.alignmentforum.org/s/5GT3yoYM9gRmMEKqL/p/eJGptPbbFPZGLpjsp]
 
 ---
 
@@ -128,7 +128,7 @@ _Source: `metadata.json`_
   "date": "January 2026",
   "abstract": "A modular, rule-based guide for writing and reviewing machine learning research papers, distilled from highly opinionated best practices from Neel Nanda. Designed for AI agents and LLM-assisted workflows, this skill emphasizes narrative clarity, precise claims, rigorous experimental evidence, and scientific integrity. The repository is structured as independent rules and templates covering claim compression, motivation and impact, novelty positioning, experiment design and red-teaming, paper structure (abstract, introduction, figures, main body), limitations, and iterative writing process. Optimized for truth-seeking, reader comprehension, and reproducibility rather than hype or conference-driven incentives.",
   "references": [
-    "https://www.alignmentforum.org/posts/eJGptPbbFPZGLpjsp/highly-opinionated-advice-on-how-to-write-ml-papers"
+    "https://www.alignmentforum.org/posts/eJGptPbbFPZGLpjsp/highly-opinionated-advice-on-how-to-write-AI-papers"
   ]
 }
 ```
@@ -159,7 +159,7 @@ description: Treat the paper as a short, evidence-backed story built around 1–
 
 ## The Paper Is a Narrative
 
-An ideal ML paper is a short, rigorous, evidence-based technical story with a takeaway the reader cares about.
+An ideal AI paper is a short, rigorous, evidence-based technical story with a takeaway the reader cares about.
 
 ### What to do
 
@@ -266,7 +266,7 @@ Your narrative needs motivation and impact. Always answer: **Why should anyone c
 
 For each claim, write three pieces:
 
-1. **Context:** Where does this sit in ML / why this topic is real?
+1. **Context:** Where does this sit in AI / why this topic is real?
 2. **Need/gap:** What’s unknown, missing, or wrong?
 3. **Impact:** What changes if your claim is true? Who should update beliefs or behavior?
 
@@ -976,7 +976,7 @@ Use this to draft an abstract that stands alone for readers who stop after the a
 ### Fill-in
 
 1. **Context (1 sentence):**  
-   _(What area of ML? What’s uncontroversially true / established?)_
+   _(What area of AI? What’s uncontroversially true / established?)_
    - …
 
 2. **Gap / need (1 sentence):**  
