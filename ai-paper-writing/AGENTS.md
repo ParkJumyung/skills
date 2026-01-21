@@ -1,6 +1,6 @@
 ---
 name: ai-paper-writing
-description: Modular toolkit for writing and reviewing AI papers: compress to 1–3 claims, motivate impact, position novelty, design/red-team evidence, and structure abstract/intro/figures/main body. Use when drafting, revising, or reviewing AI research papers.
+description: Best practices for writing AI research papers. Use when the project involves writing a research paper in AI field.
 ---
 
 # AI Paper Writing
